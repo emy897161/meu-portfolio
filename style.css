@@ -1,0 +1,45 @@
+body {
+    background-color: #93d3f2;
+}
+
+.perfil {
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Dancing Script;
+    
+}
+
+footer {
+    text-align: center;
+    margin: 10 40 40 10;
+    border-width: 05px;
+    border-style: solid;
+    font-size: 80%;
+    background-color: #9ad3f0;
+
+}
+
+.texto {
+    font-family: Caveat;
+    font-size: 20px;
+
+}
+
+.carousel-container {
+    height: 20rem;
+}
+
+.trabalhos{
+    text-align: center;
+    margin: 10 40 40 10;
+       
+}
